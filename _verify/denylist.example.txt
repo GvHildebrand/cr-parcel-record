@@ -1,0 +1,12 @@
+# Example denylist. Copy to _verify/denylist.local.txt (git-ignored) and replace
+# these invented entries with the names, numbers and clause shapes from any real
+# documents you work with. The local file is never committed, so nothing in it
+# is published. Every entry below is invented.
+#
+#   id: <a phrase of one to six words>      refused anywhere, case-insensitive
+#   sha256: <hex of the lower-cased phrase> the same, if you prefer it hashed
+#   shape: <a phrase> | <what it is>        refused inside fixtures/ only
+
+id: quetzalcoatlus sentinel phrase
+id: hacienda los pinzones imaginarios
+shape: clausula centinela de estructura | an invented clause heading the self-test injects

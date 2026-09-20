@@ -1,0 +1,32 @@
+REGISTRO INMOBILIARIO
+DIRECCIÓN DEL CATASTRO NACIONAL
+PLANO DE AGRIMENSURA
+
+PLANO No.: G-0987441-2023
+PROVINCIA: GUANACASTE
+CANTON: SANTA CRUZ
+DISTRITO: TEMPATE
+LUGAR: LAJAS DE TEMPATE
+
+AREA: 118,430.00 M2
+ESCALA: 1:1500
+FECHA DE LEVANTAMIENTO: SETIEMBRE 2023
+FECHA DE INSCRIPCION: 05-DIC-2023
+
+PROPIETARIO SEGUN DECLARACION: INVERSIONES PALO VERDE S.A.
+AGRIMENSOR: ING. TOPOGRAFA M. CAMPOS UGALDE, IC-11307
+FINCA INSCRITA: 5-162094-000
+
+=====================================================================
+CONSTRUCTED FIXTURE - NOT A REAL DOCUMENT
+
+This file reproduces the LAYOUT of a Costa Rican land document. Every
+name, number, company, parcel, date and signature in it is invented.
+No real parcel, owner, notary, surveyor or transaction is described,
+and nothing here should be relied on for any purpose.
+
+The layouts are documented in reference/source-formats.md. This notice
+is appended after the document body so that the line numbers cited by
+outputs/ stay stable; it is not part of the document and rules.md
+step 1 tells the translator to ignore it.
+=====================================================================

@@ -1,0 +1,62 @@
+REPÚBLICA DE COSTA RICA
+REGISTRO NACIONAL
+CONSULTA POR NÚMERO DE FINCA
+MATRÍCULA: 097553---000
+
+PROVINCIA: GUANACASTE FINCA: 097553 DUPLICADO: HORIZONTAL: DERECHO: 000
+                                                  SEGREGACIONES: SI HAY
+NATURALEZA: TERRENO DE AGRICULTURA
+SITUADA EN EL DISTRITO 3-MANSION CANTON 2-NICOYA DE LA
+PROVINCIA DE GUANACASTE
+FINCA NO SE ENCUENTRA EN ZONA CATASTRADA
+LINDEROS:
+ NORTE : SUCESION DE J. VALVERDE
+ SUR : CAMINO PUBLICO
+ ESTE : RIO MORACIA
+ OESTE : RESTO RESERVADO
+
+MIDE: OCHENTA Y CUATRO MIL SEISCIENTOS VEINTE METROS CUADRADOS
+PLANO:NO HAY
+FINCA CON LOCALIZACIONES EN FOLIO REAL A PARTIR DE 1994:NO HAY
+IDENTIFICADOR PREDIAL:502030097553__
+
+ANTECEDENTES DOMINIO DE LA FINCA:
+   FINCA DERECHO INSCRITA EN
+ 5-00041226 000   FOLIO REAL
+
+VALOR FISCAL: 9,842,000.00 COLONES
+
+PROPIETARIO:
+AGROPECUARIA TEMPISQUE SECO SOCIEDAD ANONIMA
+CEDULA JURIDICA 3-101-209884 EN CALIDAD DE DUEÑO
+ESTIMACIÓN O PRECIO: TRES MILLONES DE COLONES
+DUEÑO DEL DOMINIO
+
+PRESENTACIÓN: 1996-00118340-01
+FECHA DE INSCRIPCIÓN: 14-NOV-1996
+
+ANOTACIONES SOBRE LA FINCA: SI HAY
+
+ CITAS: 2026-00551903-01
+ PRESENTADO EL: 03-AGO-2026
+ NATURALEZA DEL DOCUMENTO: INFORMACION POSESORIA
+ ESTADO: EN PROCESO
+
+GRAVAMENES o AFECTACIONES: NO HAY
+
+
+Emitido el 12-09-2026 a las 10:07 horas
+
+=====================================================================
+CONSTRUCTED FIXTURE - NOT A REAL DOCUMENT
+
+This file reproduces the LAYOUT of a Costa Rican land document. Every
+name, number, company, parcel, date and signature in it is invented.
+No real parcel, owner, notary, surveyor or transaction is described,
+and nothing here should be relied on for any purpose.
+
+The layouts are documented in reference/source-formats.md. This notice
+is appended after the document body so that the line numbers cited by
+outputs/ stay stable; it is not part of the document and rules.md
+step 1 tells the translator to ignore it.
+=====================================================================

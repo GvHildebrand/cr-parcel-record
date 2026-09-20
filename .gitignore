@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.DS_Store
+
+# Local working files, never published. scan_public_safety.py rule 6 fails the
+# build if any of them is reachable from a commit.
+memory/
+.status.md
+
+# The local denylist names real identifiers so that the scan can refuse them.
+# It stays on the machine that has them. See _verify/denylist.example.txt.
+_verify/denylist.local.txt

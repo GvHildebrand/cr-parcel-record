@@ -1,0 +1,10 @@
+# Generic secrets, as regular expressions, matched case-insensitively anywhere
+# in the repository and its history. Written as patterns rather than literals so
+# that this file does not itself trip a plain-text secret scanner.
+
+/User[s]/
+@gmai[l][.]com
+ANTHROPIC_API_KE[Y]
+RESEND_API_KE[Y]
+SUPABASE_SERVIC[E]
+sk-an[t]-

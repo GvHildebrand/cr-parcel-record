@@ -1,0 +1,85 @@
+section_no	section_title	field_key	cardinality	value_kind	source_doc	example
+1	Identity	matricula	one	verbatim	informe-registral	141882---000
+1	Identity	provincia	one	verbatim	informe-registral	GUANACASTE
+1	Identity	canton	one	verbatim	informe-registral	1-LIBERIA
+1	Identity	distrito	one	verbatim	informe-registral	4-CAÑAS DULCES
+1	Identity	naturaleza	one	verbatim	informe-registral	TERRENO DE PASTO Y BOSQUE SECUNDARIO
+1	Identity	identificador_predial	one	verbatim	informe-registral	501040141882__
+1	Identity	zona_catastrada	one	verbatim	informe-registral	FINCA SE ENCUENTRA EN ZONA CATASTRADA
+1	Identity	emitido_el	one	verbatim	informe-registral	12-09-2026 a las 09:42 horas
+2	Extent	medida_literal	one	verbatim	informe-registral	DOSCIENTOS CUARENTA Y TRES MIL OCHOCIENTOS SESENTA METROS CUADRADOS
+2	Extent	medida_m2	one	derived	informe-registral	243860
+2	Extent	medida_ha	one	derived	informe-registral	24.3860
+2	Extent	plano_catastrado	one	verbatim	informe-registral	G-1146703-2019
+2	Extent	plano_area_m2	one	verbatim	plano-catastrado	243,860.00 M2
+2	Extent	lindero_norte	one	verbatim	informe-registral	AGROPECUARIA LOMAS DE ORISI S.A. Y QUEBRADA SIN NOMBRE
+2	Extent	lindero_sur	one	verbatim	informe-registral	CALLE PUBLICA CON DOSCIENTOS DIECIOCHO METROS LINEALES
+2	Extent	lindero_este	one	verbatim	informe-registral	GANADERA EL CORTEZAL AMARILLO S.A.
+2	Extent	lindero_oeste	one	verbatim	informe-registral	QUEBRADA SIN NOMBRE Y AGROPECUARIA LOMAS DE ORISI S.A.
+3	Holder	propietario	one	verbatim	informe-registral	HACIENDA LA CEIBA AZUL SOCIEDAD ANONIMA
+3	Holder	propietario_id	one	verbatim	informe-registral	3-101-448290
+3	Holder	propietario_capacidad	one	verbatim	informe-registral	EN CALIDAD DE DUEÑO
+3	Holder	estimacion_o_precio	one	verbatim	informe-registral	CIENTO VEINTE MILLONES DE COLONES
+3	Holder	valor_fiscal	one	verbatim	informe-registral	47,310,400.00 COLONES
+3	Holder	presentacion	one	verbatim	informe-registral	2019-00412885-01
+3	Holder	fecha_inscripcion	one	verbatim	informe-registral	08-AGO-2019
+4	Chain of title	antecedentes	many	verbatim	informe-registral	5-00092117 000   FOLIO REAL
+4	Chain of title	segregaciones	one	verbatim	informe-registral	NO HAY
+4	Chain of title	localizaciones_folio_real	one	verbatim	informe-registral	NO HAY
+5	Charges on the record	gravamenes_o_afectaciones	one	verbatim	informe-registral	SI HAY
+5	Charges on the record	gravamen	block	verbatim	informe-registral	### gravamen N, then the sub-fields below, in the order the document prints them
+5	Charges on the record	tipo	sub	verbatim	informe-registral	RESERVAS LEY AGUAS
+5	Charges on the record	citas	sub	verbatim	informe-registral	335-11904-01-0901-001
+5	Charges on the record	descripcion	sub	verbatim	informe-registral	SERVIDUMBRE DE PASO TERRESTRE A PIE, A CABALLO, CON VEHICULO O CON CUALQUIER MEDIO DE LOCOMOCION
+5	Charges on the record	monto	sub	verbatim	informe-registral	MIL COLONES
+5	Charges on the record	acreedor	sub	verbatim	informe-registral	BANCO DEL LITORAL S.A.
+5	Charges on the record	plazo	sub	verbatim	informe-registral	NOVENTA Y SEIS MESES
+5	Charges on the record	afecta_a_finca	sub	verbatim	informe-registral	5-00141882 -000
+5	Charges on the record	inicia_el	sub	verbatim	informe-registral	21-MAR-1978
+5	Charges on the record	longitud	sub	verbatim	informe-registral	214.60 METROS
+5	Charges on the record	ancho	sub	verbatim	informe-registral	8.00 METROS
+5	Charges on the record	rumbo	sub	verbatim	informe-registral	ESTE A OESTE
+5	Charges on the record	finca_referencia	sub	verbatim	informe-registral	500092117 000
+5	Charges on the record	a_favor_de	sub	verbatim	informe-registral	5 092117-000
+5	Charges on the record	en_contra_de	sub	verbatim	informe-registral	5 141882-000
+5	Charges on the record	cancelaciones_parciales	sub	verbatim	informe-registral	NO HAY
+5	Charges on the record	anotaciones_del_gravamen	sub	verbatim	informe-registral	NO HAY
+6	Pending entries	anotaciones_sobre_la_finca	one	verbatim	informe-registral	NO HAY
+6	Pending entries	anotacion	block	verbatim	informe-registral	### anotacion N, then the sub-fields below
+6	Pending entries	anotacion_citas	sub	verbatim	informe-registral	2026-00551903-01
+6	Pending entries	presentado_el	sub	verbatim	informe-registral	03-AGO-2026
+6	Pending entries	naturaleza_del_documento	sub	verbatim	informe-registral	INFORMACION POSESORIA
+6	Pending entries	estado	sub	verbatim	informe-registral	EN PROCESO
+7	Water	resolucion	one	verbatim	resolucion-aguas	R-0418-2026-AGUAS-MINAE
+7	Water	expediente	one	verbatim	resolucion-aguas	19844-A
+7	Water	concesionario	one	verbatim	resolucion-aguas	HACIENDA LA CEIBA AZUL SOCIEDAD ANONIMA
+7	Water	concesionario_id	one	verbatim	resolucion-aguas	3-101-448290
+7	Water	fuente	one	verbatim	resolucion-aguas	Quebrada El Jobo
+7	Water	punto_toma_hoja	one	verbatim	resolucion-aguas	Carrillo Norte
+7	Water	punto_toma_cuenca	one	verbatim	resolucion-aguas	62-03
+7	Water	punto_toma_latitud	one	verbatim	resolucion-aguas	287.412
+7	Water	punto_toma_longitud	one	verbatim	resolucion-aguas	376.905
+7	Water	caudal_asignado_ls	one	verbatim	resolucion-aguas	0.35
+7	Water	usos_autorizados	one	verbatim	resolucion-aguas	Agropecuario Riego
+7	Water	periodo_de_uso	one	verbatim	resolucion-aguas	12 horas diarias, 6 meses al año.
+7	Water	plazo_literal	one	verbatim	resolucion-aguas	DIEZ AÑOS
+7	Water	fecha_resolucion	one	verbatim	resolucion-aguas	once de febrero del dos mil veintiséis
+7	Water	vencimiento	one	derived	resolucion-aguas	11-FEB-2036
+7	Water	obra_calibradora	one	verbatim	resolucion-aguas	Dentro del mes siguiente a la notificación, el concesionario colocará un medidor de caudal en la toma
+7	Water	inmueble_asociado	one	verbatim	resolucion-aguas	5-141882-000
+8	Off-record obligations	off_record_obligation	block	verbatim	any	### off_record_obligation N, then the sub-fields below
+8	Off-record obligations	obligation	sub	prose	any	The whole parcel is under an agricultural lease that the buyer takes over.
+8	Off-record obligations	quote	sub	verbatim	any	the clause's own words, in quotation marks
+8	Off-record obligations	source	sub	citation	any	[escritura-extracto:19-23]
+8	Off-record obligations	why_off_record	sub	verbatim	any	Dicho contrato no fue presentado al Registro y no consta en el informe registral
+8	Off-record obligations	amount	sub	verbatim	any	OCHO MIL DOLARES
+8	Off-record obligations	beneficiary	sub	verbatim	any	GANADERIA HERMANOS ZUÑIGA SOCIEDAD ANONIMA
+8	Off-record obligations	appears_in_registry	sub	enum	any	no | yes | unknown, then a full stop and what was looked at
+9	Conflicts between sources	conflict	block	verbatim	any	### conflict N, then the sub-fields below
+9	Conflicts between sources	field	sub	verbatim	any	propietario
+9	Conflicts between sources	value_a	sub	verbatim	any	INVERSIONES PALO VERDE SOCIEDAD ANONIMA
+9	Conflicts between sources	value_b	sub	verbatim	any	INVERSIONES PALO VERDE S.A.
+9	Conflicts between sources	value_c	sub	verbatim	any	Inversiones Palo Verde S.A.
+10	Not in source	not_in_source	list	list	none	a bullet per field key, or the word none
+11	Unmapped	unmapped	block	verbatim	any	a block per unmapped line, with the three sub-fields below
+11	Unmapped	why_no_field	sub	prose	any	which section would have taken it, and what the schema is missing

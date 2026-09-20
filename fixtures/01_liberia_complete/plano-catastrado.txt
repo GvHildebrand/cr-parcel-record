@@ -1,0 +1,35 @@
+REGISTRO INMOBILIARIO
+DIRECCIÓN DEL CATASTRO NACIONAL
+PLANO DE AGRIMENSURA
+
+PLANO No.: G-1146703-2019
+PROVINCIA: GUANACASTE
+CANTON: LIBERIA
+DISTRITO: CAÑAS DULCES
+LUGAR: SAN ROQUE
+
+AREA: 243,860.00 M2
+ESCALA: 1:2000
+FECHA DE LEVANTAMIENTO: NOVIEMBRE 2018
+FECHA DE INSCRIPCION: 19-JUL-2019
+
+PROPIETARIO SEGUN DECLARACION: HACIENDA LA CEIBA AZUL SOCIEDAD ANONIMA
+AGRIMENSOR: ING. TOPOGRAFO R. VILLALOBOS SEQUEIRA, IC-8842
+FINCA INSCRITA: 5-141882-000
+
+NOTA: EL PRESENTE PLANO SE CONFECCIONA PARA EFECTOS DE RECTIFICACION DE
+MEDIDA DE LA FINCA CITADA.
+
+=====================================================================
+CONSTRUCTED FIXTURE - NOT A REAL DOCUMENT
+
+This file reproduces the LAYOUT of a Costa Rican land document. Every
+name, number, company, parcel, date and signature in it is invented.
+No real parcel, owner, notary, surveyor or transaction is described,
+and nothing here should be relied on for any purpose.
+
+The layouts are documented in reference/source-formats.md. This notice
+is appended after the document body so that the line numbers cited by
+outputs/ stay stable; it is not part of the document and rules.md
+step 1 tells the translator to ignore it.
+=====================================================================
